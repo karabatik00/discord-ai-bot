@@ -1,0 +1,5 @@
+discord.py
+requests
+gtts
+SpeechRecognition
+python-dotenv
