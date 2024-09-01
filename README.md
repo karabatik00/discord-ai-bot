@@ -30,7 +30,6 @@ This project is a Discord bot that can join voice channels, record audio for a s
 
     ```
     DISCORD_TOKEN=your_discord_bot_token
-    DISCORD_APP_ID=your_discord_application_id
     ```
 
 4. Run the bot:
